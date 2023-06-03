@@ -18,3 +18,8 @@
 	url = https://github.com/cran/IAcsSPCR
 	shallow = true
 	registered = true
+[submodule "Vdgraph"]
+	path = Vdgraph
+	url = https://github.com/cran/Vdgraph
+	shallow = true
+	registered = true
