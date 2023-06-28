@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AQLSchemes"]
 	path = AQLSchemes
 	url = https://github.com/cran/AQLSchemes
-	shallow = true
-	registered = true
 [submodule "daewr"]
 	path = daewr
 	url = https://github.com/cran/daewr
-	shallow = true
-	registered = true
 [submodule "IAcsSPCR"]
 	path = IAcsSPCR
 	url = https://github.com/cran/IAcsSPCR
-	shallow = true
-	registered = true
 [submodule "Vdgraph"]
 	path = Vdgraph
 	url = https://github.com/cran/Vdgraph
-	shallow = true
-	registered = true
