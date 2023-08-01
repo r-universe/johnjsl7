@@ -5,12 +5,12 @@
 [submodule "AQLSchemes"]
 	path = AQLSchemes
 	url = https://github.com/cran/AQLSchemes
-[submodule "daewr"]
-	path = daewr
-	url = https://github.com/cran/daewr
 [submodule "IAcsSPCR"]
 	path = IAcsSPCR
 	url = https://github.com/cran/IAcsSPCR
 [submodule "Vdgraph"]
 	path = Vdgraph
 	url = https://github.com/cran/Vdgraph
+[submodule "daewr"]
+	path = daewr
+	url = https://github.com/cran/daewr
